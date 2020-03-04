@@ -141,7 +141,7 @@ google_analytics_id: UA-xxxxxxxx # google 分析追踪id
 
 ## Usage
 
-Welcome everyone to use this theme, this part shows introduction to use.
+ Welcome everyone to use this theme, this part shows introduction to use.
 
 ### 1. Install ruby and jekyll environment
 
